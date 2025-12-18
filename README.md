@@ -8,3 +8,7 @@ The ETL pipeline consists of two parts.
 2. The get_raw_data.py file runs every day using Apache Airflow to get the previous day's weather data. As long as my machine is running, this Data Pipeline works without a hitch.
 
 I have included both my data pipeline files and the Apache Airflow files in this repository.
+
+Below is a link to my looker project that shows visualizations of the data collected through my pipeline.
+
+https://lookerstudio.google.com/reporting/cbb9543d-2d96-4999-bc2a-884aa408e6d3
