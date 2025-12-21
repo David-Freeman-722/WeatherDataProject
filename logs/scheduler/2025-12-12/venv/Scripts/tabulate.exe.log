@@ -1,0 +1,36 @@
+[2025-12-12T20:15:33.150+0000] {processor.py:161} INFO - Started process (PID=12317) to work on /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:15:33.152+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/tabulate.exe for tasks to queue
+[2025-12-12T20:15:33.153+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:33.153+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:15:33.156+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:33.156+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:33.157+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:15:33.188+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/tabulate.exe took 0.052 seconds
+[2025-12-12T20:16:11.241+0000] {processor.py:161} INFO - Started process (PID=12812) to work on /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:16:11.245+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/tabulate.exe for tasks to queue
+[2025-12-12T20:16:11.246+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:11.245+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:16:11.249+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:11.249+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:11.249+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:16:11.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/tabulate.exe took 0.051 seconds
+[2025-12-12T20:16:48.715+0000] {processor.py:161} INFO - Started process (PID=13292) to work on /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:16:48.718+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/tabulate.exe for tasks to queue
+[2025-12-12T20:16:48.719+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.719+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:16:48.722+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.721+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:48.722+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:16:48.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/tabulate.exe took 0.060 seconds
+[2025-12-12T20:17:24.786+0000] {processor.py:161} INFO - Started process (PID=13768) to work on /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:17:24.790+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/tabulate.exe for tasks to queue
+[2025-12-12T20:17:24.791+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.791+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:17:24.794+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.794+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.795+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:17:24.825+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/tabulate.exe took 0.055 seconds
+[2025-12-12T20:18:04.627+0000] {processor.py:161} INFO - Started process (PID=14291) to work on /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:18:04.630+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/tabulate.exe for tasks to queue
+[2025-12-12T20:18:04.631+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:04.631+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:18:04.635+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:04.635+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:04.636+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:18:04.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/tabulate.exe took 0.054 seconds
+[2025-12-12T20:18:40.471+0000] {processor.py:161} INFO - Started process (PID=14783) to work on /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:18:40.474+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/tabulate.exe for tasks to queue
+[2025-12-12T20:18:40.475+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:40.475+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:18:40.479+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:40.478+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/tabulate.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:40.479+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/tabulate.exe
+[2025-12-12T20:18:40.508+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/tabulate.exe took 0.050 seconds

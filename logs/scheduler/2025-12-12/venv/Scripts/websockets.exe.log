@@ -1,0 +1,36 @@
+[2025-12-12T20:15:31.813+0000] {processor.py:161} INFO - Started process (PID=12293) to work on /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:15:31.814+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/websockets.exe for tasks to queue
+[2025-12-12T20:15:31.816+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.815+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:15:31.819+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.818+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/websockets.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:31.819+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:15:31.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/websockets.exe took 0.051 seconds
+[2025-12-12T20:16:11.292+0000] {processor.py:161} INFO - Started process (PID=12813) to work on /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:16:11.295+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/websockets.exe for tasks to queue
+[2025-12-12T20:16:11.297+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:11.296+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:16:11.299+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:11.299+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/websockets.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:11.300+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:16:11.329+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/websockets.exe took 0.051 seconds
+[2025-12-12T20:16:48.761+0000] {processor.py:161} INFO - Started process (PID=13293) to work on /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:16:48.766+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/websockets.exe for tasks to queue
+[2025-12-12T20:16:48.768+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.768+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:16:48.772+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.771+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/websockets.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:48.772+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:16:48.805+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/websockets.exe took 0.063 seconds
+[2025-12-12T20:17:24.839+0000] {processor.py:161} INFO - Started process (PID=13769) to work on /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:17:24.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/websockets.exe for tasks to queue
+[2025-12-12T20:17:24.844+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.843+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:17:24.847+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.847+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/websockets.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.848+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:17:24.879+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/websockets.exe took 0.054 seconds
+[2025-12-12T20:18:04.677+0000] {processor.py:161} INFO - Started process (PID=14292) to work on /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:18:04.681+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/websockets.exe for tasks to queue
+[2025-12-12T20:18:04.682+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:04.681+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:18:04.686+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:04.685+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/websockets.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:04.686+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:18:04.719+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/websockets.exe took 0.055 seconds
+[2025-12-12T20:18:40.520+0000] {processor.py:161} INFO - Started process (PID=14784) to work on /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:18:40.523+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/websockets.exe for tasks to queue
+[2025-12-12T20:18:40.525+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:40.524+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:18:40.528+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:40.527+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/websockets.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:40.528+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/websockets.exe
+[2025-12-12T20:18:40.558+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/websockets.exe took 0.052 seconds

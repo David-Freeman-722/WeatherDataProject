@@ -1,0 +1,42 @@
+[2025-12-12T20:15:32.688+0000] {processor.py:161} INFO - Started process (PID=12309) to work on /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:15:32.690+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/markdown-it.exe for tasks to queue
+[2025-12-12T20:15:32.692+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.691+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:15:32.696+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.695+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/markdown-it.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.696+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:15:32.728+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/markdown-it.exe took 0.055 seconds
+[2025-12-12T20:16:10.717+0000] {processor.py:161} INFO - Started process (PID=12803) to work on /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:16:10.720+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/markdown-it.exe for tasks to queue
+[2025-12-12T20:16:10.722+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.721+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:16:10.725+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.725+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/markdown-it.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.726+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:16:10.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/markdown-it.exe took 0.058 seconds
+[2025-12-12T20:16:48.066+0000] {processor.py:161} INFO - Started process (PID=13283) to work on /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:16:48.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/markdown-it.exe for tasks to queue
+[2025-12-12T20:16:48.071+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.070+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:16:48.074+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.073+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/markdown-it.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:48.074+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:16:48.107+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/markdown-it.exe took 0.055 seconds
+[2025-12-12T20:17:24.275+0000] {processor.py:161} INFO - Started process (PID=13759) to work on /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:17:24.279+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/markdown-it.exe for tasks to queue
+[2025-12-12T20:17:24.280+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.279+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:17:24.283+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.283+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/markdown-it.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.284+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:17:24.316+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/markdown-it.exe took 0.055 seconds
+[2025-12-12T20:17:58.652+0000] {processor.py:161} INFO - Started process (PID=14213) to work on /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:17:58.656+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/markdown-it.exe for tasks to queue
+[2025-12-12T20:17:58.658+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:17:58.660+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.660+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/markdown-it.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.661+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:17:58.696+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/markdown-it.exe took 0.057 seconds
+[2025-12-12T20:18:33.419+0000] {processor.py:161} INFO - Started process (PID=14676) to work on /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:18:33.422+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/markdown-it.exe for tasks to queue
+[2025-12-12T20:18:33.424+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.423+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:18:33.427+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.427+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/markdown-it.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.427+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:18:33.457+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/markdown-it.exe took 0.052 seconds
+[2025-12-12T20:19:07.966+0000] {processor.py:161} INFO - Started process (PID=15151) to work on /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:19:07.970+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/markdown-it.exe for tasks to queue
+[2025-12-12T20:19:07.973+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:19:07.977+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.977+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/markdown-it.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.978+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/markdown-it.exe
+[2025-12-12T20:19:08.014+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/markdown-it.exe took 0.065 seconds

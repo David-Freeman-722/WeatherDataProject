@@ -1,0 +1,36 @@
+[2025-12-12T20:15:32.172+0000] {processor.py:161} INFO - Started process (PID=12300) to work on /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:15:32.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/numpy-config.exe for tasks to queue
+[2025-12-12T20:15:32.175+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.175+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:15:32.180+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.180+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/numpy-config.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.181+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:15:32.211+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/numpy-config.exe took 0.052 seconds
+[2025-12-12T20:16:11.754+0000] {processor.py:161} INFO - Started process (PID=12820) to work on /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:16:11.756+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/numpy-config.exe for tasks to queue
+[2025-12-12T20:16:11.758+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:11.757+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:16:11.761+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:11.760+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/numpy-config.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:11.761+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:16:11.797+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/numpy-config.exe took 0.060 seconds
+[2025-12-12T20:16:49.146+0000] {processor.py:161} INFO - Started process (PID=13300) to work on /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:16:49.149+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/numpy-config.exe for tasks to queue
+[2025-12-12T20:16:49.151+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:49.150+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:16:49.154+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:49.153+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/numpy-config.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:49.154+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:16:49.185+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/numpy-config.exe took 0.052 seconds
+[2025-12-12T20:17:25.222+0000] {processor.py:161} INFO - Started process (PID=13776) to work on /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:17:25.225+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/numpy-config.exe for tasks to queue
+[2025-12-12T20:17:25.227+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:25.226+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:17:25.229+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:25.229+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/numpy-config.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:25.230+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:17:25.260+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/numpy-config.exe took 0.051 seconds
+[2025-12-12T20:18:05.093+0000] {processor.py:161} INFO - Started process (PID=14299) to work on /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:18:05.096+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/numpy-config.exe for tasks to queue
+[2025-12-12T20:18:05.098+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:05.097+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:18:05.101+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:05.100+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/numpy-config.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:05.101+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:18:05.134+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/numpy-config.exe took 0.055 seconds
+[2025-12-12T20:18:40.873+0000] {processor.py:161} INFO - Started process (PID=14791) to work on /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:18:40.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/numpy-config.exe for tasks to queue
+[2025-12-12T20:18:40.878+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:40.877+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:18:40.881+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:40.880+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/numpy-config.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:40.881+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/numpy-config.exe
+[2025-12-12T20:18:40.910+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/numpy-config.exe took 0.051 seconds

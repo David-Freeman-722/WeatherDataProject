@@ -1,0 +1,42 @@
+[2025-12-12T20:15:32.571+0000] {processor.py:161} INFO - Started process (PID=12307) to work on /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:15:32.573+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/uvicorn.exe for tasks to queue
+[2025-12-12T20:15:32.575+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.574+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:15:32.579+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.579+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/uvicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.580+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:15:32.613+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/uvicorn.exe took 0.059 seconds
+[2025-12-12T20:16:10.424+0000] {processor.py:161} INFO - Started process (PID=12798) to work on /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:16:10.426+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/uvicorn.exe for tasks to queue
+[2025-12-12T20:16:10.428+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.427+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:16:10.432+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.431+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/uvicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.433+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:16:10.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/uvicorn.exe took 0.054 seconds
+[2025-12-12T20:16:47.741+0000] {processor.py:161} INFO - Started process (PID=13278) to work on /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:16:47.745+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/uvicorn.exe for tasks to queue
+[2025-12-12T20:16:47.746+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.745+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:16:47.749+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.749+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/uvicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:47.750+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:16:47.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/uvicorn.exe took 0.053 seconds
+[2025-12-12T20:17:24.025+0000] {processor.py:161} INFO - Started process (PID=13754) to work on /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:17:24.029+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/uvicorn.exe for tasks to queue
+[2025-12-12T20:17:24.030+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.029+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:17:24.033+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.033+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/uvicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.034+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:17:24.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/uvicorn.exe took 0.053 seconds
+[2025-12-12T20:17:58.249+0000] {processor.py:161} INFO - Started process (PID=14208) to work on /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:17:58.252+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/uvicorn.exe for tasks to queue
+[2025-12-12T20:17:58.254+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.253+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:17:58.257+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.256+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/uvicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.257+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:17:58.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/uvicorn.exe took 0.057 seconds
+[2025-12-12T20:18:33.170+0000] {processor.py:161} INFO - Started process (PID=14671) to work on /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:18:33.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/uvicorn.exe for tasks to queue
+[2025-12-12T20:18:33.175+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.175+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:18:33.178+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.178+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/uvicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.178+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:18:33.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/uvicorn.exe took 0.051 seconds
+[2025-12-12T20:19:07.695+0000] {processor.py:161} INFO - Started process (PID=15146) to work on /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:19:07.697+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/uvicorn.exe for tasks to queue
+[2025-12-12T20:19:07.699+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.698+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:19:07.702+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.702+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/uvicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.703+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/uvicorn.exe
+[2025-12-12T20:19:07.741+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/uvicorn.exe took 0.062 seconds

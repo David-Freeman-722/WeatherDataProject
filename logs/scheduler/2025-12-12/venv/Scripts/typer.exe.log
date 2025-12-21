@@ -1,0 +1,42 @@
+[2025-12-12T20:15:32.072+0000] {processor.py:161} INFO - Started process (PID=12298) to work on /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:15:32.073+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/typer.exe for tasks to queue
+[2025-12-12T20:15:32.075+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.074+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:15:32.078+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.078+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/typer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.078+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:15:32.108+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/typer.exe took 0.050 seconds
+[2025-12-12T20:16:10.221+0000] {processor.py:161} INFO - Started process (PID=12794) to work on /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:16:10.224+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/typer.exe for tasks to queue
+[2025-12-12T20:16:10.225+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.225+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:16:10.228+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.228+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/typer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.228+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:16:10.258+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/typer.exe took 0.051 seconds
+[2025-12-12T20:16:47.422+0000] {processor.py:161} INFO - Started process (PID=13274) to work on /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:16:47.425+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/typer.exe for tasks to queue
+[2025-12-12T20:16:47.427+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.427+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:16:47.431+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.430+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/typer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:47.431+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:16:47.470+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/typer.exe took 0.064 seconds
+[2025-12-12T20:17:23.730+0000] {processor.py:161} INFO - Started process (PID=13750) to work on /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:17:23.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/typer.exe for tasks to queue
+[2025-12-12T20:17:23.735+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.734+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:17:23.738+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.738+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/typer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:23.739+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:17:23.771+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/typer.exe took 0.056 seconds
+[2025-12-12T20:17:57.949+0000] {processor.py:161} INFO - Started process (PID=14204) to work on /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:17:57.953+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/typer.exe for tasks to queue
+[2025-12-12T20:17:57.956+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:57.955+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:17:57.962+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:57.962+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/typer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:57.964+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:17:58.022+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/typer.exe took 0.098 seconds
+[2025-12-12T20:18:32.966+0000] {processor.py:161} INFO - Started process (PID=14667) to work on /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:18:32.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/typer.exe for tasks to queue
+[2025-12-12T20:18:32.971+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:32.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:18:32.974+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:32.974+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/typer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:32.974+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:18:33.005+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/typer.exe took 0.052 seconds
+[2025-12-12T20:19:07.379+0000] {processor.py:161} INFO - Started process (PID=15142) to work on /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:19:07.382+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/typer.exe for tasks to queue
+[2025-12-12T20:19:07.383+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.383+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:19:07.386+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.386+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/typer.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.387+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/typer.exe
+[2025-12-12T20:19:07.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/typer.exe took 0.055 seconds

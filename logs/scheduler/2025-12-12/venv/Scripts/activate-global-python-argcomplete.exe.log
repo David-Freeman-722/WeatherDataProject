@@ -1,0 +1,41 @@
+[2025-12-12T20:15:31.917+0000] {processor.py:161} INFO - Started process (PID=12295) to work on /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:15:31.918+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe for tasks to queue
+[2025-12-12T20:15:31.920+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.919+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:15:31.923+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.922+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:31.924+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:15:31.955+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe took 0.053 seconds
+[2025-12-12T20:16:10.896+0000] {processor.py:161} INFO - Started process (PID=12806) to work on /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:16:10.900+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe for tasks to queue
+[2025-12-12T20:16:10.902+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.902+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:16:10.906+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.906+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.907+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:16:10.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe took 0.063 seconds
+[2025-12-12T20:16:48.262+0000] {processor.py:161} INFO - Started process (PID=13286) to work on /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:16:48.265+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe for tasks to queue
+[2025-12-12T20:16:48.267+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.267+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:16:48.271+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.270+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:48.271+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:16:48.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe took 0.053 seconds
+[2025-12-12T20:17:24.449+0000] {processor.py:161} INFO - Started process (PID=13762) to work on /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:17:24.452+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe for tasks to queue
+[2025-12-12T20:17:24.454+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.453+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:17:24.457+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.457+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.458+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:17:24.488+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe took 0.053 seconds
+[2025-12-12T20:17:58.879+0000] {processor.py:161} INFO - Started process (PID=14216) to work on /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:17:58.881+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe for tasks to queue
+[2025-12-12T20:17:58.883+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.882+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:17:58.886+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.886+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.887+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:17:58.924+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe took 0.068 seconds
+[2025-12-12T20:18:33.568+0000] {processor.py:161} INFO - Started process (PID=14679) to work on /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:18:33.572+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe for tasks to queue
+[2025-12-12T20:18:33.573+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.572+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:18:33.577+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.576+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.577+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:18:33.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe took 0.050 seconds
+[2025-12-12T20:19:08.264+0000] {processor.py:161} INFO - Started process (PID=15154) to work on /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:19:08.267+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe for tasks to queue
+[2025-12-12T20:19:08.268+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:08.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:19:08.270+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe
+[2025-12-12T20:19:08.297+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/activate-global-python-argcomplete.exe took 0.050 seconds

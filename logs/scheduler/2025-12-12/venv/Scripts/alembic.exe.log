@@ -1,0 +1,42 @@
+[2025-12-12T20:15:32.019+0000] {processor.py:161} INFO - Started process (PID=12297) to work on /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:15:32.021+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/alembic.exe for tasks to queue
+[2025-12-12T20:15:32.022+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.022+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:15:32.025+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.025+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/alembic.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.026+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:15:32.056+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/alembic.exe took 0.050 seconds
+[2025-12-12T20:16:10.272+0000] {processor.py:161} INFO - Started process (PID=12795) to work on /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:16:10.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/alembic.exe for tasks to queue
+[2025-12-12T20:16:10.277+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.276+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:16:10.279+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.279+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/alembic.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.280+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:16:10.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/alembic.exe took 0.050 seconds
+[2025-12-12T20:16:47.519+0000] {processor.py:161} INFO - Started process (PID=13275) to work on /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:16:47.523+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/alembic.exe for tasks to queue
+[2025-12-12T20:16:47.524+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.524+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:16:47.528+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.528+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/alembic.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:47.529+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:16:47.567+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/alembic.exe took 0.065 seconds
+[2025-12-12T20:17:23.818+0000] {processor.py:161} INFO - Started process (PID=13751) to work on /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:17:23.821+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/alembic.exe for tasks to queue
+[2025-12-12T20:17:23.822+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.822+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:17:23.825+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.825+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/alembic.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:23.826+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:17:23.863+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/alembic.exe took 0.059 seconds
+[2025-12-12T20:17:57.989+0000] {processor.py:161} INFO - Started process (PID=14205) to work on /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:17:57.993+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/alembic.exe for tasks to queue
+[2025-12-12T20:17:57.996+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:57.995+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:17:58.007+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.006+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/alembic.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.008+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:17:58.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/alembic.exe took 0.097 seconds
+[2025-12-12T20:18:33.023+0000] {processor.py:161} INFO - Started process (PID=14668) to work on /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:18:33.027+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/alembic.exe for tasks to queue
+[2025-12-12T20:18:33.028+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.027+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:18:33.031+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.031+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/alembic.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.031+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:18:33.060+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/alembic.exe took 0.049 seconds
+[2025-12-12T20:19:07.478+0000] {processor.py:161} INFO - Started process (PID=15143) to work on /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:19:07.481+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/alembic.exe for tasks to queue
+[2025-12-12T20:19:07.483+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.482+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:19:07.486+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.485+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/alembic.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.486+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/alembic.exe
+[2025-12-12T20:19:07.521+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/alembic.exe took 0.055 seconds

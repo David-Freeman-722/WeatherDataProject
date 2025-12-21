@@ -1,0 +1,42 @@
+[2025-12-12T20:15:32.120+0000] {processor.py:161} INFO - Started process (PID=12299) to work on /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:15:32.122+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/email_validator.exe for tasks to queue
+[2025-12-12T20:15:32.123+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.123+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:15:32.126+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.126+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/email_validator.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.126+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:15:32.158+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/email_validator.exe took 0.051 seconds
+[2025-12-12T20:16:10.538+0000] {processor.py:161} INFO - Started process (PID=12800) to work on /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:16:10.542+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/email_validator.exe for tasks to queue
+[2025-12-12T20:16:10.544+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.543+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:16:10.547+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.547+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/email_validator.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.547+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:16:10.581+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/email_validator.exe took 0.061 seconds
+[2025-12-12T20:16:47.856+0000] {processor.py:161} INFO - Started process (PID=13280) to work on /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:16:47.859+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/email_validator.exe for tasks to queue
+[2025-12-12T20:16:47.860+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:16:47.863+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.863+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/email_validator.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:47.864+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:16:47.896+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/email_validator.exe took 0.054 seconds
+[2025-12-12T20:17:24.129+0000] {processor.py:161} INFO - Started process (PID=13756) to work on /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:17:24.132+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/email_validator.exe for tasks to queue
+[2025-12-12T20:17:24.133+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.133+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:17:24.136+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.136+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/email_validator.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.137+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:17:24.168+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/email_validator.exe took 0.053 seconds
+[2025-12-12T20:17:58.436+0000] {processor.py:161} INFO - Started process (PID=14210) to work on /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:17:58.440+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/email_validator.exe for tasks to queue
+[2025-12-12T20:17:58.441+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.441+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:17:58.444+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.444+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/email_validator.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.445+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:17:58.480+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/email_validator.exe took 0.057 seconds
+[2025-12-12T20:18:33.270+0000] {processor.py:161} INFO - Started process (PID=14673) to work on /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:18:33.273+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/email_validator.exe for tasks to queue
+[2025-12-12T20:18:33.275+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.274+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:18:33.277+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.277+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/email_validator.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.278+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:18:33.306+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/email_validator.exe took 0.050 seconds
+[2025-12-12T20:19:07.804+0000] {processor.py:161} INFO - Started process (PID=15148) to work on /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:19:07.808+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/email_validator.exe for tasks to queue
+[2025-12-12T20:19:07.809+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.808+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:19:07.812+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.811+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/email_validator.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.812+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/email_validator.exe
+[2025-12-12T20:19:07.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/email_validator.exe took 0.055 seconds

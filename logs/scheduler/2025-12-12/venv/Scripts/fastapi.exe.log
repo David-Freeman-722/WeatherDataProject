@@ -1,0 +1,42 @@
+[2025-12-12T20:15:32.874+0000] {processor.py:161} INFO - Started process (PID=12312) to work on /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:15:32.876+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/fastapi.exe for tasks to queue
+[2025-12-12T20:15:32.878+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.877+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:15:32.881+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.880+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/fastapi.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.881+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:15:32.915+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/fastapi.exe took 0.060 seconds
+[2025-12-12T20:16:10.074+0000] {processor.py:161} INFO - Started process (PID=12791) to work on /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:16:10.077+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/fastapi.exe for tasks to queue
+[2025-12-12T20:16:10.079+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.078+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:16:10.081+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.081+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/fastapi.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.082+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:16:10.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/fastapi.exe took 0.050 seconds
+[2025-12-12T20:16:47.196+0000] {processor.py:161} INFO - Started process (PID=13271) to work on /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:16:47.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/fastapi.exe for tasks to queue
+[2025-12-12T20:16:47.202+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.201+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:16:47.205+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.205+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/fastapi.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:47.206+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:16:47.240+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/fastapi.exe took 0.058 seconds
+[2025-12-12T20:17:23.485+0000] {processor.py:161} INFO - Started process (PID=13740) to work on /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:17:23.489+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/fastapi.exe for tasks to queue
+[2025-12-12T20:17:23.492+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.491+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:17:23.496+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.496+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/fastapi.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:23.497+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:17:23.542+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/fastapi.exe took 0.076 seconds
+[2025-12-12T20:17:57.699+0000] {processor.py:161} INFO - Started process (PID=14201) to work on /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:17:57.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/fastapi.exe for tasks to queue
+[2025-12-12T20:17:57.704+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:57.704+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:17:57.707+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:57.707+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/fastapi.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:57.708+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:17:57.744+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/fastapi.exe took 0.062 seconds
+[2025-12-12T20:18:32.826+0000] {processor.py:161} INFO - Started process (PID=14664) to work on /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:18:32.829+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/fastapi.exe for tasks to queue
+[2025-12-12T20:18:32.832+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:32.831+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:18:32.835+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:32.835+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/fastapi.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:32.836+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:18:32.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/fastapi.exe took 0.058 seconds
+[2025-12-12T20:19:07.166+0000] {processor.py:161} INFO - Started process (PID=15139) to work on /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:19:07.169+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/fastapi.exe for tasks to queue
+[2025-12-12T20:19:07.171+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.170+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:19:07.174+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.174+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/fastapi.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.175+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/fastapi.exe
+[2025-12-12T20:19:07.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/fastapi.exe took 0.054 seconds

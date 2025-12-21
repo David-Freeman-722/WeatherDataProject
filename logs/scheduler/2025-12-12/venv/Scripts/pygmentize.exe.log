@@ -1,0 +1,36 @@
+[2025-12-12T20:15:33.089+0000] {processor.py:161} INFO - Started process (PID=12316) to work on /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:15:33.091+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pygmentize.exe for tasks to queue
+[2025-12-12T20:15:33.093+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:33.092+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:15:33.097+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:33.096+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:33.097+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:15:33.130+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pygmentize.exe took 0.058 seconds
+[2025-12-12T20:16:11.020+0000] {processor.py:161} INFO - Started process (PID=12808) to work on /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:16:11.024+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pygmentize.exe for tasks to queue
+[2025-12-12T20:16:11.026+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:11.025+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:16:11.029+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:11.029+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:11.030+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:16:11.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pygmentize.exe took 0.063 seconds
+[2025-12-12T20:16:48.445+0000] {processor.py:161} INFO - Started process (PID=13288) to work on /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:16:48.448+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pygmentize.exe for tasks to queue
+[2025-12-12T20:16:48.450+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.449+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:16:48.452+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.452+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:48.453+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:16:48.489+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pygmentize.exe took 0.058 seconds
+[2025-12-12T20:17:24.557+0000] {processor.py:161} INFO - Started process (PID=13764) to work on /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:17:24.560+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pygmentize.exe for tasks to queue
+[2025-12-12T20:17:24.562+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.561+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:17:24.565+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.564+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.565+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:17:24.597+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pygmentize.exe took 0.055 seconds
+[2025-12-12T20:18:04.419+0000] {processor.py:161} INFO - Started process (PID=14287) to work on /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:18:04.421+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pygmentize.exe for tasks to queue
+[2025-12-12T20:18:04.423+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:04.422+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:18:04.426+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:04.425+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:04.426+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:18:04.456+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pygmentize.exe took 0.051 seconds
+[2025-12-12T20:18:40.268+0000] {processor.py:161} INFO - Started process (PID=14779) to work on /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:18:40.272+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pygmentize.exe for tasks to queue
+[2025-12-12T20:18:40.273+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:40.272+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:18:40.276+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:40.275+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pygmentize.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:40.276+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pygmentize.exe
+[2025-12-12T20:18:40.307+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pygmentize.exe took 0.051 seconds

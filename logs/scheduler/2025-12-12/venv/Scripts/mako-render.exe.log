@@ -1,0 +1,42 @@
+[2025-12-12T20:15:32.739+0000] {processor.py:161} INFO - Started process (PID=12310) to work on /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:15:32.740+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/mako-render.exe for tasks to queue
+[2025-12-12T20:15:32.742+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.741+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:15:32.746+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.745+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/mako-render.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.746+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:15:32.781+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/mako-render.exe took 0.056 seconds
+[2025-12-12T20:16:10.657+0000] {processor.py:161} INFO - Started process (PID=12802) to work on /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:16:10.661+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/mako-render.exe for tasks to queue
+[2025-12-12T20:16:10.663+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.662+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:16:10.666+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.666+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/mako-render.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.667+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:16:10.700+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/mako-render.exe took 0.061 seconds
+[2025-12-12T20:16:48.046+0000] {processor.py:161} INFO - Started process (PID=13282) to work on /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:16:48.050+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/mako-render.exe for tasks to queue
+[2025-12-12T20:16:48.051+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.051+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:16:48.054+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.054+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/mako-render.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:48.054+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:16:48.088+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/mako-render.exe took 0.054 seconds
+[2025-12-12T20:17:24.238+0000] {processor.py:161} INFO - Started process (PID=13758) to work on /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:17:24.241+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/mako-render.exe for tasks to queue
+[2025-12-12T20:17:24.243+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.242+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:17:24.246+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.246+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/mako-render.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.247+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:17:24.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/mako-render.exe took 0.056 seconds
+[2025-12-12T20:17:58.544+0000] {processor.py:161} INFO - Started process (PID=14212) to work on /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:17:58.546+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/mako-render.exe for tasks to queue
+[2025-12-12T20:17:58.548+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.547+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:17:58.552+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.551+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/mako-render.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.552+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:17:58.590+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/mako-render.exe took 0.060 seconds
+[2025-12-12T20:18:33.368+0000] {processor.py:161} INFO - Started process (PID=14675) to work on /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:18:33.372+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/mako-render.exe for tasks to queue
+[2025-12-12T20:18:33.373+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.372+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:18:33.376+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.376+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/mako-render.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.376+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:18:33.405+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/mako-render.exe took 0.050 seconds
+[2025-12-12T20:19:07.921+0000] {processor.py:161} INFO - Started process (PID=15150) to work on /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:19:07.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/mako-render.exe for tasks to queue
+[2025-12-12T20:19:07.926+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.925+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:19:07.929+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.928+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/mako-render.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.929+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/mako-render.exe
+[2025-12-12T20:19:07.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/mako-render.exe took 0.059 seconds

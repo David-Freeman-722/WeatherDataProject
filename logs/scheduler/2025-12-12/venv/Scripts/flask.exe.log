@@ -1,0 +1,42 @@
+[2025-12-12T20:15:31.970+0000] {processor.py:161} INFO - Started process (PID=12296) to work on /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:15:31.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/flask.exe for tasks to queue
+[2025-12-12T20:15:31.973+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:15:31.976+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.975+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/flask.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:31.976+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:15:32.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/flask.exe took 0.051 seconds
+[2025-12-12T20:16:10.323+0000] {processor.py:161} INFO - Started process (PID=12796) to work on /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:16:10.326+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/flask.exe for tasks to queue
+[2025-12-12T20:16:10.328+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.327+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:16:10.330+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.330+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/flask.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.331+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:16:10.360+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/flask.exe took 0.050 seconds
+[2025-12-12T20:16:47.633+0000] {processor.py:161} INFO - Started process (PID=13276) to work on /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:16:47.637+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/flask.exe for tasks to queue
+[2025-12-12T20:16:47.639+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.638+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:16:47.642+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.641+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/flask.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:47.642+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:16:47.681+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/flask.exe took 0.063 seconds
+[2025-12-12T20:17:23.923+0000] {processor.py:161} INFO - Started process (PID=13752) to work on /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:17:23.927+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/flask.exe for tasks to queue
+[2025-12-12T20:17:23.929+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.928+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:17:23.931+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.931+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/flask.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:23.932+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:17:23.965+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/flask.exe took 0.056 seconds
+[2025-12-12T20:17:58.107+0000] {processor.py:161} INFO - Started process (PID=14206) to work on /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:17:58.112+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/flask.exe for tasks to queue
+[2025-12-12T20:17:58.114+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.113+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:17:58.119+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.118+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/flask.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.120+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:17:58.167+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/flask.exe took 0.077 seconds
+[2025-12-12T20:18:33.068+0000] {processor.py:161} INFO - Started process (PID=14669) to work on /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:18:33.072+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/flask.exe for tasks to queue
+[2025-12-12T20:18:33.073+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.072+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:18:33.076+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.076+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/flask.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.076+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:18:33.106+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/flask.exe took 0.050 seconds
+[2025-12-12T20:19:07.497+0000] {processor.py:161} INFO - Started process (PID=15144) to work on /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:19:07.501+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/flask.exe for tasks to queue
+[2025-12-12T20:19:07.502+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.502+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:19:07.505+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.505+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/flask.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.506+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/flask.exe
+[2025-12-12T20:19:07.540+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/flask.exe took 0.057 seconds

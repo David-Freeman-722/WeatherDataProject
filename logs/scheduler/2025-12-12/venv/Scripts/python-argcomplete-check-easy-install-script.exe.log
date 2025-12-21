@@ -1,0 +1,41 @@
+[2025-12-12T20:15:33.200+0000] {processor.py:161} INFO - Started process (PID=12318) to work on /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:15:33.202+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe for tasks to queue
+[2025-12-12T20:15:33.203+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:33.203+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:15:33.206+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:33.206+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:33.207+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:15:33.238+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe took 0.053 seconds
+[2025-12-12T20:16:10.835+0000] {processor.py:161} INFO - Started process (PID=12805) to work on /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:16:10.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe for tasks to queue
+[2025-12-12T20:16:10.840+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.840+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:16:10.844+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.844+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.845+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:16:10.882+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe took 0.065 seconds
+[2025-12-12T20:16:48.244+0000] {processor.py:161} INFO - Started process (PID=13285) to work on /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:16:48.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe for tasks to queue
+[2025-12-12T20:16:48.249+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.248+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:16:48.252+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:48.251+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:48.252+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:16:48.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe took 0.052 seconds
+[2025-12-12T20:17:24.388+0000] {processor.py:161} INFO - Started process (PID=13761) to work on /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:17:24.393+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe for tasks to queue
+[2025-12-12T20:17:24.395+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.394+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:17:24.398+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.397+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.398+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:17:24.428+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe took 0.058 seconds
+[2025-12-12T20:17:58.759+0000] {processor.py:161} INFO - Started process (PID=14215) to work on /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:17:58.763+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe for tasks to queue
+[2025-12-12T20:17:58.766+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.764+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:17:58.768+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.768+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.769+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:17:58.803+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe took 0.057 seconds
+[2025-12-12T20:18:33.519+0000] {processor.py:161} INFO - Started process (PID=14678) to work on /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:18:33.522+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe for tasks to queue
+[2025-12-12T20:18:33.523+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.523+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:18:33.526+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.526+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.527+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:18:33.555+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe took 0.048 seconds
+[2025-12-12T20:19:08.118+0000] {processor.py:161} INFO - Started process (PID=15153) to work on /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:19:08.132+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe for tasks to queue
+[2025-12-12T20:19:08.135+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:08.134+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:19:08.136+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe
+[2025-12-12T20:19:08.213+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/python-argcomplete-check-easy-install-script.exe took 0.126 seconds

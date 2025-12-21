@@ -1,0 +1,42 @@
+[2025-12-12T20:15:31.866+0000] {processor.py:161} INFO - Started process (PID=12294) to work on /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:15:31.868+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/watchfiles.exe for tasks to queue
+[2025-12-12T20:15:31.869+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.868+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:15:31.872+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.872+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/watchfiles.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:31.872+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:15:31.906+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/watchfiles.exe took 0.054 seconds
+[2025-12-12T20:16:10.481+0000] {processor.py:161} INFO - Started process (PID=12799) to work on /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:16:10.485+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/watchfiles.exe for tasks to queue
+[2025-12-12T20:16:10.487+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.486+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:16:10.490+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.490+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/watchfiles.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.491+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:16:10.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/watchfiles.exe took 0.059 seconds
+[2025-12-12T20:16:47.838+0000] {processor.py:161} INFO - Started process (PID=13279) to work on /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:16:47.842+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/watchfiles.exe for tasks to queue
+[2025-12-12T20:16:47.843+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.842+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:16:47.846+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.845+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/watchfiles.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:47.846+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:16:47.881+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/watchfiles.exe took 0.056 seconds
+[2025-12-12T20:17:24.058+0000] {processor.py:161} INFO - Started process (PID=13755) to work on /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:17:24.062+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/watchfiles.exe for tasks to queue
+[2025-12-12T20:17:24.064+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.063+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:17:24.067+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.067+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/watchfiles.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.068+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:17:24.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/watchfiles.exe took 0.054 seconds
+[2025-12-12T20:17:58.333+0000] {processor.py:161} INFO - Started process (PID=14209) to work on /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:17:58.336+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/watchfiles.exe for tasks to queue
+[2025-12-12T20:17:58.338+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.337+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:17:58.340+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.340+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/watchfiles.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.341+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:17:58.375+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/watchfiles.exe took 0.055 seconds
+[2025-12-12T20:18:33.221+0000] {processor.py:161} INFO - Started process (PID=14672) to work on /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:18:33.225+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/watchfiles.exe for tasks to queue
+[2025-12-12T20:18:33.226+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.225+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:18:33.229+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.228+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/watchfiles.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.229+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:18:33.257+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/watchfiles.exe took 0.048 seconds
+[2025-12-12T20:19:07.716+0000] {processor.py:161} INFO - Started process (PID=15147) to work on /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:19:07.720+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/watchfiles.exe for tasks to queue
+[2025-12-12T20:19:07.722+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.721+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:19:07.725+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.725+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/watchfiles.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.726+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/watchfiles.exe
+[2025-12-12T20:19:07.762+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/watchfiles.exe took 0.062 seconds

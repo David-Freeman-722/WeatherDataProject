@@ -1,0 +1,42 @@
+[2025-12-12T20:15:32.512+0000] {processor.py:161} INFO - Started process (PID=12306) to work on /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:15:32.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/cadwyn.exe for tasks to queue
+[2025-12-12T20:15:32.515+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.515+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:15:32.518+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.518+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/cadwyn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.519+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:15:32.553+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/cadwyn.exe took 0.061 seconds
+[2025-12-12T20:16:10.013+0000] {processor.py:161} INFO - Started process (PID=12790) to work on /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:16:10.015+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/cadwyn.exe for tasks to queue
+[2025-12-12T20:16:10.017+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.016+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:16:10.020+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.019+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/cadwyn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.020+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:16:10.050+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/cadwyn.exe took 0.050 seconds
+[2025-12-12T20:16:47.179+0000] {processor.py:161} INFO - Started process (PID=13270) to work on /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:16:47.183+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/cadwyn.exe for tasks to queue
+[2025-12-12T20:16:47.184+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.183+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:16:47.187+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.187+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/cadwyn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:47.188+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:16:47.224+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/cadwyn.exe took 0.060 seconds
+[2025-12-12T20:17:23.462+0000] {processor.py:161} INFO - Started process (PID=13739) to work on /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:17:23.465+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/cadwyn.exe for tasks to queue
+[2025-12-12T20:17:23.467+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.466+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:17:23.470+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:23.469+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/cadwyn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:23.470+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:17:23.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/cadwyn.exe took 0.071 seconds
+[2025-12-12T20:17:57.595+0000] {processor.py:161} INFO - Started process (PID=14200) to work on /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:17:57.598+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/cadwyn.exe for tasks to queue
+[2025-12-12T20:17:57.600+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:57.599+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:17:57.603+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:57.603+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/cadwyn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:57.603+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:17:57.635+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/cadwyn.exe took 0.053 seconds
+[2025-12-12T20:18:32.737+0000] {processor.py:161} INFO - Started process (PID=14663) to work on /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:18:32.740+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/cadwyn.exe for tasks to queue
+[2025-12-12T20:18:32.743+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:32.742+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:18:32.747+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:32.746+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/cadwyn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:32.748+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:18:32.782+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/cadwyn.exe took 0.062 seconds
+[2025-12-12T20:19:07.079+0000] {processor.py:161} INFO - Started process (PID=15138) to work on /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:19:07.083+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/cadwyn.exe for tasks to queue
+[2025-12-12T20:19:07.085+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.084+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:19:07.088+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.087+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/cadwyn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.088+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/cadwyn.exe
+[2025-12-12T20:19:07.121+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/cadwyn.exe took 0.056 seconds

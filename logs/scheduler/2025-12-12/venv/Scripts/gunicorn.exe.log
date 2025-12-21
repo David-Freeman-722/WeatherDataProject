@@ -1,0 +1,42 @@
+[2025-12-12T20:15:31.555+0000] {processor.py:161} INFO - Started process (PID=12288) to work on /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:15:31.557+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/gunicorn.exe for tasks to queue
+[2025-12-12T20:15:31.558+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.558+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:15:31.562+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:31.561+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:31.562+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:15:31.593+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/gunicorn.exe took 0.053 seconds
+[2025-12-12T20:16:10.597+0000] {processor.py:161} INFO - Started process (PID=12801) to work on /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:16:10.600+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/gunicorn.exe for tasks to queue
+[2025-12-12T20:16:10.602+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:16:10.606+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:10.605+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:10.606+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:16:10.641+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/gunicorn.exe took 0.060 seconds
+[2025-12-12T20:16:47.944+0000] {processor.py:161} INFO - Started process (PID=13281) to work on /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:16:47.947+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/gunicorn.exe for tasks to queue
+[2025-12-12T20:16:47.949+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.948+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:16:47.952+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:47.952+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:47.953+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:16:47.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/gunicorn.exe took 0.059 seconds
+[2025-12-12T20:17:24.165+0000] {processor.py:161} INFO - Started process (PID=13757) to work on /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:17:24.168+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/gunicorn.exe for tasks to queue
+[2025-12-12T20:17:24.170+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.169+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:17:24.173+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:24.172+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:24.173+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:17:24.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/gunicorn.exe took 0.054 seconds
+[2025-12-12T20:17:58.457+0000] {processor.py:161} INFO - Started process (PID=14211) to work on /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:17:58.459+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/gunicorn.exe for tasks to queue
+[2025-12-12T20:17:58.461+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.460+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:17:58.464+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:58.464+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:58.465+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:17:58.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/gunicorn.exe took 0.058 seconds
+[2025-12-12T20:18:33.320+0000] {processor.py:161} INFO - Started process (PID=14674) to work on /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:18:33.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/gunicorn.exe for tasks to queue
+[2025-12-12T20:18:33.325+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.324+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:18:33.328+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:33.327+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:33.328+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:18:33.356+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/gunicorn.exe took 0.048 seconds
+[2025-12-12T20:19:07.836+0000] {processor.py:161} INFO - Started process (PID=15149) to work on /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:19:07.840+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/gunicorn.exe for tasks to queue
+[2025-12-12T20:19:07.841+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.841+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:19:07.845+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:19:07.844+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/gunicorn.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:19:07.845+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/gunicorn.exe
+[2025-12-12T20:19:07.882+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/gunicorn.exe took 0.060 seconds

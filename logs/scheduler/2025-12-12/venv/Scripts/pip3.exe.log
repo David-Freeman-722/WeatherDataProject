@@ -1,0 +1,42 @@
+[2025-12-12T20:15:32.627+0000] {processor.py:161} INFO - Started process (PID=12308) to work on /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:15:32.629+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pip3.exe for tasks to queue
+[2025-12-12T20:15:32.630+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.630+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:15:32.634+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:15:32.633+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pip3.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:15:32.634+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:15:32.670+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pip3.exe took 0.060 seconds
+[2025-12-12T20:16:06.509+0000] {processor.py:161} INFO - Started process (PID=12747) to work on /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:16:06.512+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pip3.exe for tasks to queue
+[2025-12-12T20:16:06.513+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:06.513+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:16:06.516+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:06.516+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pip3.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:06.517+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:16:06.545+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pip3.exe took 0.050 seconds
+[2025-12-12T20:16:37.492+0000] {processor.py:161} INFO - Started process (PID=13136) to work on /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:16:37.495+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pip3.exe for tasks to queue
+[2025-12-12T20:16:37.496+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:37.496+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:16:37.499+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:16:37.499+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pip3.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:16:37.499+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:16:37.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pip3.exe took 0.053 seconds
+[2025-12-12T20:17:09.800+0000] {processor.py:161} INFO - Started process (PID=13567) to work on /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:17:09.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pip3.exe for tasks to queue
+[2025-12-12T20:17:09.805+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:09.805+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:17:09.810+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:09.809+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pip3.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:09.811+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:17:09.853+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pip3.exe took 0.069 seconds
+[2025-12-12T20:17:44.692+0000] {processor.py:161} INFO - Started process (PID=14030) to work on /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:17:44.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pip3.exe for tasks to queue
+[2025-12-12T20:17:44.696+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:44.695+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:17:44.699+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:17:44.699+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pip3.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:17:44.700+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:17:44.730+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pip3.exe took 0.051 seconds
+[2025-12-12T20:18:16.523+0000] {processor.py:161} INFO - Started process (PID=14445) to work on /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:18:16.526+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pip3.exe for tasks to queue
+[2025-12-12T20:18:16.528+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:16.527+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:18:16.531+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:16.531+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pip3.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:16.531+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:18:16.563+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pip3.exe took 0.054 seconds
+[2025-12-12T20:18:49.084+0000] {processor.py:161} INFO - Started process (PID=14892) to work on /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:18:49.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/venv/Scripts/pip3.exe for tasks to queue
+[2025-12-12T20:18:49.088+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:49.088+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:18:49.091+0000] {logging_mixin.py:188} INFO - [2025-12-12T20:18:49.091+0000] {dagbag.py:403} INFO - File /opt/airflow/dags/venv/Scripts/pip3.exe:__main__.py assumed to contain no DAGs. Skipping.
+[2025-12-12T20:18:49.091+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/venv/Scripts/pip3.exe
+[2025-12-12T20:18:49.123+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/venv/Scripts/pip3.exe took 0.052 seconds
