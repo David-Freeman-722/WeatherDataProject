@@ -114,24 +114,90 @@ def extract_weather_data(current_weather, location_info):
 
 # Load data into the destination table
 def load_csv_data_into_gbq(csv_filename, full_table_id, project_id):
-    client = bigquery.Client(project=project_id)
+    client = bigquery.Client()
+
+    staging_table_id = f"{full_table_id}_STAGING"
+
+    weather_table_schema = [
+        bigquery.SchemaField("date", "DATE"),
+        bigquery.SchemaField("weather_code", "INTEGER"),
+        bigquery.SchemaField("mean_temp", "FLOAT"),
+        bigquery.SchemaField("max_temp", "FLOAT"),
+        bigquery.SchemaField("min_temp", "FLOAT"),
+        bigquery.SchemaField("precip", "FLOAT"),
+        bigquery.SchemaField("rain_sum", "FLOAT"),
+        bigquery.SchemaField("snowfall_sum", "FLOAT"),
+        bigquery.SchemaField("windspeed_max", "FLOAT"),
+        bigquery.SchemaField("shortwave_radiation", "FLOAT"),
+        bigquery.SchemaField("precip_hours", "FLOAT"),
+        bigquery.SchemaField("city", "STRING"),
+        bigquery.SchemaField("zip_code", "STRING"),
+        bigquery.SchemaField("state", "STRING"),
+        bigquery.SchemaField("country", "STRING"),
+        bigquery.SchemaField("sunrise", "TIME"),
+        bigquery.SchemaField("sunset", "TIME"),
+        bigquery.SchemaField("SYS_SRC_LOAD_DT", "TIMESTAMP"),
+    ]
+
     job_config = bigquery.LoadJobConfig(
         source_format=bigquery.SourceFormat.CSV,
-        write_disposition=bigquery.WriteDisposition.WRITE_APPEND,
+        write_disposition=bigquery.WriteDisposition.WRITE_TRUNCATE,
         skip_leading_rows=1,
-        autodetect=True,
-        field_delimiter=","
+        autodetect=False,
+        field_delimiter=",",
+        schema=weather_table_schema,
+        time_partitioning=bigquery.TimePartitioning(
+            type_=bigquery.TimePartitioningType.YEAR,
+            field="date",
+        ),
     )
-    logger.info("Loading data into GBQ...")
+
+    client.delete_table(staging_table_id, not_found_ok=True)
+
+    # Runs job to load STAGING table with data from csv file
+    logger.info("Loading data into STAGING GBQ table...")
     with open(csv_filename, "rb") as file:
         job = client.load_table_from_file(
             file,
-            full_table_id,
-            job_config
+            staging_table_id,
+            job_config=job_config
         )
-    
-    # Runs job to load table with data from csv file
     job.result()
+
+    # Merges data from staging into the production table
+    merge_sql = f"""
+    MERGE `{full_table_id}` AS P
+    USING `{staging_table_id}` AS S
+    ON P.date = S.date
+    WHEN MATCHED THEN
+        UPDATE SET
+            P.city = S.city,
+            P.state = S.state,
+            P.zip_code = S.zip_code,
+            P.country = S.country,
+            P.weather_code = S.weather_code,
+            P.sunrise = S.sunrise,
+            P.sunset = S.sunset,
+            P.SYS_SRC_LOAD_DT = S.SYS_SRC_LOAD_DT,
+            P.mean_temp = S.mean_temp,
+            P.max_temp = S.max_temp,
+            P.min_temp = S.min_temp,
+            P.precip = S.precip,
+            P.rain_sum = S.rain_sum,
+            P.snowfall_sum = S.snowfall_sum,
+            P.windspeed_max = S.windspeed_max,
+            P.shortwave_radiation = S.shortwave_radiation,
+            P.precip_hours = S.precip_hours
+    WHEN NOT MATCHED THEN
+      INSERT ROW;
+    """
+
+    logger.info("Performing merge between STAGING and PROD tables...")
+    client.query(merge_sql).result()
+
+    client.delete_table(staging_table_id, not_found_ok=True)
+    logger.info("Pipeline complete. No duplicates created.")
+
     logger.info("Finished loading data into GBQ.")
 
 if __name__ == "__main__":

@@ -9,9 +9,7 @@ import logging
 from google.cloud import bigquery
 from dotenv import load_dotenv
 
-# GOAL: Get the last 4 years of weather data into Google BigQuery
-
-# CAUTION!!! RUN ONLY 1 TIME TO GET THE DATA INTO GBQ AS GBQ TABLES DO NOT ENFORCE KEY RESTRAINTS
+# GOAL: Load historical data weather data for the city of Cleveland, TN
 
 SLEEP_TIME = 3
 SESSION = requests.Session()
@@ -71,9 +69,6 @@ def get_current_weather_data(latitude, longitude, start_date, end_date):
     # API to get current weather for Cleveland, TN 
     cleveland_tn_api_link = f"https://archive-api.open-meteo.com/v1/archive?latitude={latitude}&longitude={longitude}&start_date={start_date}&end_date={end_date}&daily=weather_code,temperature_2m_mean,temperature_2m_max,temperature_2m_min,sunset,sunrise,precipitation_sum,rain_sum,snowfall_sum,precipitation_hours,wind_speed_10m_max,shortwave_radiation_sum&timezone=America%2FNew_York&temperature_unit=fahrenheit&wind_speed_unit=mph&precipitation_unit=inch"
     cleveland_tn_current_weather_response = SESSION.get(url=cleveland_tn_api_link, timeout=(5, 120))
-    # print(cleveland_tn_current_weather_response)
-    # print(cleveland_tn_current_weather_response.content)
-    # breakpoint()
     cleveland_tn_current_weather_content = cleveland_tn_current_weather_response.json()
     logger.info("Previous 4 years of weather data retreived.")
     return cleveland_tn_current_weather_content
@@ -128,27 +123,93 @@ def extract_weather_data(current_weather, location_info):
 # Load data into the destination table
 def load_csv_data_into_gbq(csv_filename, full_table_id):
     client = bigquery.Client()
+
+    staging_table_id = f"{full_table_id}_STAGING"
+
+    weather_table_schema = [
+        bigquery.SchemaField("date", "DATE"),
+        bigquery.SchemaField("weather_code", "INTEGER"),
+        bigquery.SchemaField("mean_temp", "FLOAT"),
+        bigquery.SchemaField("max_temp", "FLOAT"),
+        bigquery.SchemaField("min_temp", "FLOAT"),
+        bigquery.SchemaField("precip", "FLOAT"),
+        bigquery.SchemaField("rain_sum", "FLOAT"),
+        bigquery.SchemaField("snowfall_sum", "FLOAT"),
+        bigquery.SchemaField("windspeed_max", "FLOAT"),
+        bigquery.SchemaField("shortwave_radiation", "FLOAT"),
+        bigquery.SchemaField("precip_hours", "FLOAT"),
+        bigquery.SchemaField("city", "STRING"),
+        bigquery.SchemaField("zip_code", "STRING"),
+        bigquery.SchemaField("state", "STRING"),
+        bigquery.SchemaField("country", "STRING"),
+        bigquery.SchemaField("sunrise", "TIME"),
+        bigquery.SchemaField("sunset", "TIME"),
+        bigquery.SchemaField("SYS_SRC_LOAD_DT", "TIMESTAMP"),
+    ]
+
     job_config = bigquery.LoadJobConfig(
         source_format=bigquery.SourceFormat.CSV,
-        write_disposition=bigquery.WriteDisposition.WRITE_TRUNCATE_DATA,
+        write_disposition=bigquery.WriteDisposition.WRITE_TRUNCATE,
         skip_leading_rows=1,
-        autodetect=True,
+        autodetect=False,
         field_delimiter=",",
+        schema=weather_table_schema,
         time_partitioning=bigquery.TimePartitioning(
             type_=bigquery.TimePartitioningType.YEAR,
             field="date",
         ),
     )
-    logger.info("Loading data into GBQ...")
+
+    # Deletes old STAGING table to ensure no conflicts emerge between tables
+    client.delete_table(staging_table_id, not_found_ok=True)
+
+    # Runs job to load STAGING table with data from csv file
+    logger.info("Loading data into STAGING GBQ table...")
     with open(csv_filename, "rb") as file:
         job = client.load_table_from_file(
             file,
-            full_table_id,
-            job_config
+            staging_table_id,
+            job_config=job_config
         )
-    
-    # Runs job to load table with data from csv file
     job.result()
+
+    # Merges data from STAGING into the PROD table
+    merge_sql = f"""
+    MERGE `{full_table_id}` AS P
+    USING `{staging_table_id}` AS S
+    ON P.date = S.date
+    WHEN MATCHED THEN
+        UPDATE SET
+            P.city = S.city,
+            P.state = S.state,
+            P.zip_code = S.zip_code,
+            P.country = S.country,
+            P.weather_code = S.weather_code,
+            P.sunrise = S.sunrise,
+            P.sunset = S.sunset,
+            P.SYS_SRC_LOAD_DT = S.SYS_SRC_LOAD_DT,
+            P.mean_temp = S.mean_temp,
+            P.max_temp = S.max_temp,
+            P.min_temp = S.min_temp,
+            P.precip = S.precip,
+            P.rain_sum = S.rain_sum,
+            P.snowfall_sum = S.snowfall_sum,
+            P.windspeed_max = S.windspeed_max,
+            P.shortwave_radiation = S.shortwave_radiation,
+            P.precip_hours = S.precip_hours
+    WHEN NOT MATCHED THEN
+      INSERT ROW;
+    """
+
+    # Runs merge query to merge STAGING and PROD tables together
+    logger.info("Performing merge between STAGING and PROD tables...")
+    client.query(merge_sql).result()
+
+
+    # Deletes old STAGING table from GBQ
+    client.delete_table(staging_table_id, not_found_ok=True)
+    logger.info("Pipeline complete. No duplicates created.")
+
     logger.info("Finished loading data into GBQ.")
     
 
