@@ -25,8 +25,8 @@ def main():
     state = "TN"
     country = "United States"
     location_info = {"city": city, "zip": zip_code, "state": state, "country": country}
-    start_date = datetime.date(1940, 1, 1)
-    end_date = datetime.date(1949, 12, 31)
+    start_date = datetime.date(2026, 1, 3)
+    end_date = datetime.date(2026, 1, 4)
     current_date = start_date
 
     # Runs pipeline to gradually insert historical data into my database

@@ -1,0 +1,5 @@
+{
+    "GCP_PROJECT_ID": "focused-stacker-479517-r8",
+    "BQ_DATASET_ID": "weather_project",
+    "BQ_TABLE_ID": "DAILY_WEATHER"
+}

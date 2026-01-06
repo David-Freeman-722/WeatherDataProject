@@ -51,9 +51,9 @@ def run_daily_weather_pipeline():
 
     # BigQuery client
     # Loads environment variables
-    project = Variable.get("GCP_PROJECT_ID")
-    dataset = Variable.get("BQ_DATASET_ID")
-    table = Variable.get("BQ_TABLE_ID")
+    project = Variable.get("GCP_PROJECT_ID", default_var="focused-stacker-479517-r8")
+    dataset = Variable.get("BQ_DATASET_ID", default_var="weather_project")
+    table = Variable.get("BQ_TABLE_ID", default_var="DAILY_WEATHER")
     full_table_id = f"{project}.{dataset}.{table}"
     load_csv_data_into_gbq(csv_file_name, full_table_id, project)
     
